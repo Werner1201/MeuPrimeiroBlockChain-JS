@@ -1,8 +1,9 @@
-<h1>Projeto-Aprende-Blockchain<h1>
-<p>Objetivo desse Repositório é que, ao longo do Tempo, eu consiga melhorar o código do blockchain e encontrar um uso bom, seja esse uso de beneficio próprio ou para beneficio de outrem.</p>
+# Projeto-Aprende-Blockchain
+######Objetivo desse Repositório é que, ao longo do Tempo, eu consiga melhorar o código do blockchain e encontrar um uso bom, seja esse uso de beneficio próprio ou para beneficio de outrem.
 
-<h1>Por que Usar JavaScript ?(Linguagem X, Y e Z são Melhores para lidar com isso)</h1>
-<p>Pois, atualmente, no tempo em que crio esse repositório, eu tenho me enveredado e me dedicado ao aprendizado de JavaScript.</p>
+##Por que Usar JavaScript ?(Linguagem X, Y e Z são Melhores para lidar com isso)</h1>
+Re: >Pois, atualmente, no tempo em que crio esse repositório, eu tenho me enveredado e me dedicado ao aprendizado de JavaScript.
 
-<h2>Curvas Elípticas<h2>
-<article><p>São uma Aproximação de Criptografia de Chaves Públicas que<br>Por sua vez são baseados em enigmas matemáticos que são difíceis de decrifrar sem<br>Determinado conhecimento sobre como foram criados.</p>Link do Wikipédia para maiores esclarecimentos e local de extração da informação descrita aqui: https://pt.wikipedia.org/wiki/Criptografia_de_curva_elíptica</article>
+###Curvas Elípticas
+######São uma Aproximação de Criptografia de Chaves Públicas que por sua vez são baseados em enigmas matemáticos que são difíceis de decrifrar sem determinado conhecimento sobre como foram criados.
+Link do Wikipédia para maiores esclarecimentos e local de extração da informação descrita aqui: (https://pt.wikipedia.org/wiki/Criptografia_de_curva_elíptica)
